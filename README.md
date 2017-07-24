@@ -50,6 +50,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Util Code | https://github.com/Blankj/AndroidUtilCode |
 |  | Put It All Together | https://github.com/athkalia/Just-Another-Android-App |
 |  | Android Development Blogs | https://github.com/ziem/android-development-blogs |
+|  | music player ( ? ) |https://github.com/aliumujib/Orin |
 | Blogs | Kotlin |  |
 |  | JetBrains | https://blog.jetbrains.com/kotlin |
 |  | Hadi Hariri | http://hadihariri.com |
