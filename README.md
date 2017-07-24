@@ -103,6 +103,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | SquareEngineering | https://www.youtube.com/user/SquareEngineering |
 |  | Square Island | https://www.youtube.com/channel/UCtdDoUTSw0tkvtro98Xu35g |
 |  | touchlab | https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw |
+|  | [NguyenDucHoang](https://github.com/sunlight3d/android_tutorials) | https://www.youtube.com/c/NguyenDucHoang | 
 | YouTube | Search & Find |  |
 |  | [Google IO Android](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp) |  |
 |  | [Firebase IO Android](https://www.youtube.com/playlist?list=PLl-K7zZEsYLma7gxYxtEwO1rsAPn7wkV_) |  |
@@ -255,3 +256,14 @@ As an issue title use `Add http://example.com`.
 I would really love some feedback on this list I've created and more so would love your contribution to this list as I am sure I might be forgetting other important and equally powerful Android dev sources that our community can benefit from...
 
 **ENJOY YOU**
+
+
+hackerSpaces
+https://www.hackster.io/
+http://www.hackathon.io/h4mme7
+https://devhub.io/
+https://devpost.com/
+
+https://nyhackathons.com/tools/
+
+off topic WEB : https://github.com/techx/hackmit-splash
