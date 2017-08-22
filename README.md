@@ -74,6 +74,7 @@ All those Android development sources that you need to be and stay awesome!
 |  | Wolfram Rittmeyer | http://www.grokkingandroid.com |
 |  | Zarah Dominguez | http://www.zdominguez.com |
 |  | Fernando Cejas | https://fernandocejas.com |
+|  | Jeroen Mols    | https://jeroenmols.com/blog/ |
 | Blogs | Companies |  |
 |  | Android Developers | https://android-developers.googleblog.com |
 |  | Realm | https://realm.io/news |
